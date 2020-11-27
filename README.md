@@ -8,5 +8,7 @@ The core algurithm is write by Paolo Rosati using **Processing tools** and some 
 The project started under the *auspicius* of *Dies Iovis*, in the 26/11/2020 *noctis tempora*. The Python script is able to working on one only way or net (composed by one only element) each launch. 
 In the immediate future will be add the possibility to calculate miles on a net of multi-lines.
 
-Join the project, commit and feel free to fork, write me at archeorosati@gmail.com --> my_roman_mile is under construction.
+Join the project, commit and feel free to fork, write me at archeorosati@gmail.com --> my_roman_mile is under construction 0.0 script is in the repository, in the "datatest" folder there is the layers for training.
+
+![first launch] ()
 
