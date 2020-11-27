@@ -10,5 +10,5 @@ In the immediate future will be add the possibility to calculate miles on a net 
 
 Join the project, commit and feel free to fork, write me at archeorosati@gmail.com --> my_roman_mile is under construction 0.0 script is in the repository, in the "datatest" folder there is the layers for training.
 
-![first launch] ()
+![first launch](https://raw.githubusercontent.com/archeorosati/my_roman_miles/main/Schermata%202020-11-27%20alle%2009.08.39.jpg)
 
