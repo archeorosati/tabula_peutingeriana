@@ -1,10 +1,10 @@
-# my_roman_miles
+# my_Tabula_Peutingeriana
 ## Projectus miliaria stradalis mētīris
 
-my_roman_mile will be a QGIS plugin able to calculate and extract the *"roman miliaria"* from a single road or a net composed by one only element (it is workin on lines layer). 
+my_Tabula_Peutingeriana will be a QGIS plugin able to calculate and extract the *"roman miliaria"* from the hub of a roman network. 
 
-The core algurithm is write by Paolo Rosati using **Processing tools** and some other lines of "fresh code". 
-**Functions are in latin** for archeo_fun the programmers who will help in the realease. 
+The core algurithm is write by Paolo Rosati using **Processing tools**.
+In the code, the **objects name are in latin** for archeo_fun the programmers who will help in the realease. 
 The project started under the *auspicius* of *Dies Iovis*, in the 26/11/2020 *noctis tempora*. The Python script is able to working on one only way or net (composed by one only element) each launch. 
 In the immediate future will be add the possibility to calculate miles on a net of multi-lines.
 
