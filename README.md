@@ -3,8 +3,9 @@
 
 my_Tabula_Peutingeriana will be a QGIS plugin able to calculate and extract the *"roman miliaria"* from the hub of a roman network. 
 
-The core algurithm is write by Paolo Rosati using **Processing tools**.
-In the code, the **objects name are in latin** for archeo_fun the programmers who will help in the realease. 
+The core algurithm is write by Paolo Rosati using **Processing tools**.The idea was born writing the successions of scripts used for the network hub application of the **ERC Advanced'PAThs' project PI: Paola Buzi.**
+
+In the code, the **objects name are in latin** for the archeo_fun of the programmers who will help in the realease. 
 The project started under the *auspicius* of *Dies Iovis*, in the 26/11/2020 *noctis tempora*. The Python script is able to working on one only way or net (composed by one only element) each launch. 
 In the immediate future will be add the possibility to calculate miles on a net of multi-lines.
 
