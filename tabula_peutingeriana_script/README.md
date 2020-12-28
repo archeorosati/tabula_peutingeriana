@@ -2,28 +2,18 @@
 ## my_Tabula_Peutingeriana
 ### Projectus miliaria stradalis mētīris
 
-/***************************************************************************
-
-Tabula peutingeriana                                 A QGIS processing tool
-                              -------------------
-        begin                : 2020-12-28
-        copyright            : (C) 2020 by Paolo Rosati
-        email                : archeorosati@gmail.com
-	Github		: https://github.com/archeorosati/tabula_peutingeriana
+Tabula Peutingeriana A QGIS processing tool
+		begin                : 2020-12-28
+		copyright            : (C) 2020 by Paolo Rosati
+		email                : archeorosati@gmail.com
+		Github		: https://github.com/archeorosati/tabula_peutingeriana
 	
- ***************************************************************************/
 
-/***************************************************************************
-
- *                                                                         *
- *   This program is free software; you can redistribute it and/or modify  *
- *   it under the terms of the GNU General Public License as published by  *
- *   the Free Software Foundation; either version 2 of the License, or     *
- *   (at your option) any later version.                                   *
- *                                                                         *
- ***************************************************************************/
-"""
-
+	This program is free software; you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation; either version 2 of the License, or
+ 	(at your option) any later version.
+ 
 **Before start working**, copy and past the ***tabulapeutingeriana.py*** in the folder —>
 
 For Linux users:
